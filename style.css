@@ -1,0 +1,23 @@
+div{
+	width: 550px;
+	height: 20px;
+
+	border:82px solid #696969;
+background-color: #696969;
+
+}
+
+a {
+	padding: 20px;
+	font-size: 30px;
+}
+.a1{
+	color:red;
+
+}
+.a2{
+	color:orange;
+}
+.a3{
+	color: yellow;
+}
